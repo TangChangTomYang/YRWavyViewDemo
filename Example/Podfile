@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YRWaveViewDemo_Example' do
+  pod 'YRWaveViewDemo', :path => '../'
+
+  target 'YRWaveViewDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
