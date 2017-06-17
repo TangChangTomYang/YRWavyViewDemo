@@ -1,0 +1,6 @@
+framework module YRWaveViewDemo {
+  umbrella header "YRWaveViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

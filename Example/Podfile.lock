@@ -1,0 +1,16 @@
+PODS:
+  - YRWaveViewDemo (0.1.0)
+
+DEPENDENCIES:
+  - YRWaveViewDemo (from `../`)
+
+EXTERNAL SOURCES:
+  YRWaveViewDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YRWaveViewDemo: 59f153196e53f9ed309a3957835656ffb627e620
+
+PODFILE CHECKSUM: 44758fe942e90791a79f60a8637bb1a072a7aa32
+
+COCOAPODS: 1.2.1

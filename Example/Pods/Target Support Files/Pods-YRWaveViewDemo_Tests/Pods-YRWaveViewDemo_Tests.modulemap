@@ -1,0 +1,6 @@
+framework module Pods_YRWaveViewDemo_Tests {
+  umbrella header "Pods-YRWaveViewDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
